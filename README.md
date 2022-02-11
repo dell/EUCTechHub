@@ -18,7 +18,7 @@ For more details on WMI, see [https://docs.microsoft.com/en-us/windows/win32/wmi
 For more details on PowerShell, see [https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7]
 For more details on Agentless BIOS manageability, see [https://downloads.dell.com/manuals/common/dell-agentless-client-manageability.pdf]
 
-## *VMware Workspace ONE UEM and Intelligenice*
+## *VMware Workspace ONE UEM and Intelligence*
 VMware Workspace ONE is a cloud-based service that focuses on Unified Endpoint Management (UEM).
 For more details on Microsoft Intune, see 
 [https://www.vmware.com/products/workspace-one.html]
