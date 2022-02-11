@@ -1,5 +1,5 @@
 # EUCTechHub
-# *EUCTechHub client script library*
+# *EUCTechHub client resources library*
 PowerShell scripting for to support a variety of platforms such as VMware Workspace One, Microsoft MEM, and others.
 Sample scripts are written in PowerShell that illustrates the usage of these scripts with UEM management and dashboarding and analytics platforms to provide various
 data elements from Dell client tools or OS. 
