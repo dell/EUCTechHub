@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Dell EUCTechHub
 
-You can use the [editor on GitHub](https://github.com/dell/EUCTechHub/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You will find helpful content to manage your Dell PC Fleet with modern UEM consoles like **VMware Workspace ONE** and **Microsoft Microsoft Endpoint Manager**. This includes generic or console specific PowerShell scripts, whitepapers and BLOG postings. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Content
+- [Whitepapers](https://github.com/dell/EUCTechHub/tree/main/Whitepapers) **NOTE TO MYSELF** Setting relative links possible?
+- [Scripts for Microsoft Endpoint Manager](https://github.com/dell/EUCTechHub/tree/main/Scripts/MEM-InTune)
+- [Scripts for VMware Workspace ONE](https://github.com/dell/EUCTechHub/tree/main/Scripts/Workspace%20ONE)
+- [Generic Scripts & Basics](https://github.com/dell/EUCTechHub/tree/main/Scripts/General)
 
-### Markdown
+### Our Team
+- [Aarron Quach](https://github.com/aquachdell)
+- [Gus Chavira](https://github.com/gchaviradell)
+- [Mesut Kaptanoglu](https://github.com/mesutkdell)
+- [Sven Riebe](https://github.com/svenriebedell)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dell/EUCTechHub/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Disclaimer
+Legal Disclaimer?
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Define how to contact the Team...
