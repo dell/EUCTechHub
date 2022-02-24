@@ -16,6 +16,10 @@ You will find helpful content to manage your Dell PC Fleet with modern UEM conso
 
 ### Disclaimer
 Legal Disclaimer?
+Here is a simple footnote[^1].
 
 ### Support or Contact
 Define how to contact the Team...
+
+
+[^1]: Footnote #1
