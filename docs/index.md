@@ -7,6 +7,7 @@ You will find helpful content to manage your Dell PC Fleet with modern UEM conso
 - [Scripts for Microsoft Endpoint Manager](https://github.com/dell/EUCTechHub/tree/main/Scripts/MEM-InTune)
 - [Scripts for VMware Workspace ONE](https://github.com/dell/EUCTechHub/tree/main/Scripts/Workspace%20ONE)
 - [Generic Scripts & Basics](https://github.com/dell/EUCTechHub/tree/main/Scripts/General)
+- [Wiki](https://github.com/dell/EUCTechHub/wiki)
 
 ### Our Team
 - [Aarron Quach](https://github.com/aquachdell)
