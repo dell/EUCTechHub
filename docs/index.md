@@ -13,15 +13,10 @@ You will find helpful content to manage your Dell PC Fleet with modern UEM conso
 ### Our Team
 - [Aarron Quach](https://github.com/aquachdell)
 - [Gus Chavira](https://github.com/gchaviradell)
+- Eric Fredrickson
 - [Mesut Kaptanoglu](https://github.com/mesutkdell)
 - [Sven Riebe](https://github.com/svenriebedell)
 
-### Disclaimer
-Legal Disclaimer?
-Here is a simple footnote[^1].
-
-### Support or Contact
-Define how to contact the Team...
-
-
-[^1]: Footnote #1
+### Support & Feedback
+This code is provided to help the open-source community and currently not supported by Dell.
+You can provide further feedback or report an issue by using the following link [https://github.com/dell/EUCTechHub]
