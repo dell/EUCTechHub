@@ -1,3 +1,5 @@
+[< Back to EUCTechHub](https://github.com/dell/EUCTechHub/blob/main/docs/index.md)
+
 # Dell Whitepaper 2022
 
 # Dell Whitepaper 2021
