@@ -2,6 +2,9 @@
 
 You will find helpful content to manage your Dell PC Fleet with modern UEM consoles like **VMware Workspace ONE** and **Microsoft Microsoft Endpoint Manager**. This includes generic or console specific PowerShell scripts, whitepapers and BLOG postings. 
 
+![deploy1](https://user-images.githubusercontent.com/99353146/156367885-8de10f76-973e-457a-a4d2-cc8b0f93a889.png)
+
+
 ### Content
 - [Whitepapers](https://github.com/dell/EUCTechHub/tree/main/Whitepapers)
 - [Scripts for Microsoft Endpoint Manager](https://github.com/dell/EUCTechHub/tree/main/Scripts/MEM-InTune)
