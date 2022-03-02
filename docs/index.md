@@ -1,8 +1,7 @@
+![ic_DCC_blue_65x50px](https://user-images.githubusercontent.com/99353146/156392718-d81a374e-add8-4c91-b19c-b35189a318be.png)
 ## Welcome to Dell EUCTechHub
 
 You will find helpful content to manage your Dell PC Fleet with modern UEM consoles like **VMware Workspace ONE** and **Microsoft Microsoft Endpoint Manager**. This includes generic or console specific PowerShell scripts, whitepapers and BLOG postings. 
-
-![deploy4](https://user-images.githubusercontent.com/99353146/156369193-b5f87d44-b988-4894-9c74-fc906bead7ce.png)
 
 ### Content
 - [Whitepapers](https://github.com/dell/EUCTechHub/tree/main/Whitepapers)
